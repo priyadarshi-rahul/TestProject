@@ -6,5 +6,6 @@ public class DemoTest {
 		System.out.println("Hello World!");
 		System.out.println("Adding new Statement");
 		System.err.println("Adding new Line basically 2nd time changes");
+		System.out.println("check to see!");
 	}
 }
